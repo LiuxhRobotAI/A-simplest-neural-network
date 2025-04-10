@@ -23,3 +23,5 @@ python a_3_layers_neural_network.py
 6. [Realtime object detection using yolo](https://github.com/LiuxhRobotAI/realtime-object-detection-yolo)
 
 7. [Trainig variuos of models with cifar100](https://github.com/LiuxhRobotAI/pytorch-cifar100)
+
+8. [PINNs from scratch](https://github.com/LiuxhRobotAI/PINNs-from-scratch)
